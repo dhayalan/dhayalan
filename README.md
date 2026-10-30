@@ -1,16 +1,20 @@
 <div align="center">
 
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
+<h3><code>dhayalan@github: ~/contributions --graph</code></h3>
+<img src="./contrib-heatmap.svg" width="869" alt="Contribution graph for dhayalan@github" />
 
 <br><br>
 
-<h3><code>avi@github ~ $ whoami</code></h3>
-<table>
-    <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
-    </tr>
-</table>
+<h3><code>dhayalan@github: ~$ ./portrait.sh</code></h3>
+<img src="./avi-ascii.svg" width="840" alt="ASCII portrait of Dhayalan I.J.K" />
+
+<br><br>
+
+<img src="./source-prepped.png" width="280" alt="Dhayalan I.J.K" />
+
+<br><br>
+
+<h3><code>dhayalan@github: ~$ neofetch</code></h3>
+<img src="./info-card.svg" width="720" alt="neofetch info card for dhayalan@github" />
 
 </div>
